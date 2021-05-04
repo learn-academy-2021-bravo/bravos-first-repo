@@ -1,3 +1,3 @@
-# Hello World I love git and githib
+# Hello World I love git and github
 
 ## Shazeen Fabius
